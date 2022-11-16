@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "soap": "^0.45.0",
+    "xml2json": "^0.12.0"
+  }
+}
